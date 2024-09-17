@@ -1,8 +1,4 @@
-```
-npm install
-npm run dev
-```
+PoC for Whatsapp + LLMs
 
-```
-npm run deploy
-```
+Use whatsapp to talk to LLMs, personalised with custom Data from a central DB.
+
